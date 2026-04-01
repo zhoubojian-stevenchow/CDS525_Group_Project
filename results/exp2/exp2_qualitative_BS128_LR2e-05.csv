@@ -1,0 +1,101 @@
+Index,Input Text,Actual Label,Predicted Label,Confidence,Correct
+1,[NEWS_IN] HUL shares block deal helps FPI investments into Indian equities turn positive in May,Positive,Positive,99.8%,✓
+2,"[NEWS_IN] Rupee skids 13 paise to 73 . 51 per dollar amid weak equities , fund outflows",Negative,Negative,99.7%,✓
+3,[NEWS_IN] India poised to be counted among top 3 nations : Rajnath Singh,Positive,Positive,99.8%,✓
+4,[SOCIAL] Kohl's stock price target cut to $48 from $52 at Deutsche Bank,Negative,Negative,99.5%,✓
+5,[NEWS_IN] Economics of climate change win Nobel Prize for US duo,Positive,Positive,99.7%,✓
+6,[NEWS_IN] SEBI allows acceptance of client securities as collateral by way of title transfer till Au...,Negative,Negative,99.1%,✓
+7,[NEWS_IN] Coronavirus fallout : Why small finance banks are in for big trouble,Negative,Negative,99.8%,✓
+8,"[NEWS_IN] Sensex , Nifty start budget week on positive note , end at 3 - week closing highs ; key re...",Positive,Positive,99.8%,✓
+9,"[NEWS_IN] News highlights of the day : Firms will now be able to pay PF dues , update ownership deta...",Positive,Positive,99.5%,✓
+10,"[NEWS_IN] Modi to focus on infra spending , bet on real estate , cement and capital goods",Negative,Negative,99.8%,✓
+11,[SOCIAL] Buffett-backed StoneCo jumps to 7-month high on solid growth https://t.co/JJ2dbxJbDp via @b...,Positive,Positive,99.3%,✓
+12,[NEWS_IN] Fraudulent trading : Sebi slaps Rs 50 lakh fine on four individuals,Negative,Negative,99.7%,✓
+13,[NEWS_IN] Mounting import of Vietnamese pepper via Sri Lanka worries India,Negative,Negative,99.8%,✓
+14,"[NEWS_IN] ANAROCK to partner with local , global housing brokerage firms",Positive,Positive,99.8%,✓
+15,[NEWS_IN] Here how Wall Street plans to deal with coronavirus,Negative,Positive,86.4%,✗
+16,[NEWS_IN] The business of corporate social responsibility,Positive,Positive,99.2%,✓
+17,"[NEWS_IN] After Saubhagya , will theft of electricity decline ; what Centre expects India to do",Negative,Negative,99.7%,✓
+18,[NEWS_IN] SEBI orders special audit of 4 ICEX broking firms for alleged irregularities,Negative,Negative,99.7%,✓
+19,[NEWS_IN] Asian shares near two - month highs ahead of US payrolls,Negative,Negative,65.9%,✓
+20,"[NEWS_IN] Inside Santiniketan , a lonely , troubled VC",Positive,Negative,97.9%,✗
+21,[SOCIAL] The Retiree's Dividend Portfolio - Jane's October Update: Taking Advantage Of Zero Cost Tra...,Neutral,Neutral,99.5%,✓
+22,[NEWS_IN] Men in top management posts have twice the rate of attrition than women : Study,Negative,Negative,98.6%,✓
+23,[NEWS_IN] Budget 2019 : Develop domestic capabilities to boost aviation,Positive,Positive,99.7%,✓
+24,"[NEWS_IN] Rate hike seen weighing on firm borrowing , capex",Negative,Negative,99.7%,✓
+25,[NEWS_IN] Gold prices are expected to trade lower today : Angel Commodities,Positive,Positive,99.3%,✓
+26,[NEWS_IN] Xiaomi : IPO hopeful Xiaomi set to blow past 2017 revenue target,Positive,Negative,88.6%,✗
+27,"[NEWS_IN] India a long - term investment for us , says IKEA global CEO Jesper Brodin",Positive,Positive,99.8%,✓
+28,"[NEWS_IN] Govt set to release IIP , WPI new base year series",Positive,Positive,99.8%,✓
+29,"[NEWS_IN] Pandemic triggers a wave of distress , bankruptcy in Corporate America",Negative,Negative,99.7%,✓
+30,[NEWS_IN] Sensex ends nearly 150 points down as Wall Street drags global markets,Negative,Negative,99.7%,✓
+31,[NEWS_IN] Donald Trump blocks Broadcom $117 billion bid for Qualcomm on  national security  concerns,Negative,Negative,99.7%,✓
+32,[NEWS_IN] Technical View : Nifty forms  Doji  candle for second day ; keep a stop below 10K,Positive,Positive,99.8%,✓
+33,[SOCIAL] Commercial paper outstanding â a measure of short-term promissory notes issued primarily ...,Neutral,Neutral,99.5%,✓
+34,"[NEWS_IN] Karnataka polls verdict 2018 : With JD ( S ), Congress open for alliance , here an electio...",Positive,Positive,96.8%,✓
+35,[NEWS_IN] Will set up JPC to probe demonetisation  scam : Manish Tewari,Negative,Negative,99.6%,✓
+36,[NEWS_IN] Gold : Today Gold Price : Track today gold rate latest trends and news,Positive,Positive,99.8%,✓
+37,[NEWS_IN] Ministers to brainstorm policy for an all,Positive,Positive,99.8%,✓
+38,[NEWS_IN] Mutual Fund investment : Which mutual fund schemes should a student invest ?,Negative,Negative,99.7%,✓
+39,"[NEWS_IN] Trump vows to stop China taking South China Sea islands ; Chinese media warns , act tantam...",Negative,Negative,99.8%,✓
+40,[NEWS_IN] NAFTA must protect workers left behind by global economy : Justin Trudeau,Positive,Positive,99.8%,✓
+41,[NEWS_IN] Indians among London fastest growing international students,Positive,Positive,99.8%,✓
+42,[NEWS_IN] China $11 trillion economy and markets are in a tug of war,Negative,Negative,99.8%,✓
+43,[NEWS_IN] Sanjeev Gupta Liberty House to acquire ArcelorMittal US unit,Negative,Negative,84.8%,✓
+44,"[NEWS_IN] Gold forms bullish hammer ; may break out if resistance @ 38 , 100 is tested",Negative,Negative,99.7%,✓
+45,[NEWS_IN] 5 stocks that are buzzing in market today amid a poor show by Sensex,Negative,Negative,99.8%,✓
+46,"[NEWS_IN] OnePlus beats Samsung , Apple again in India premium smartphone market : Counterpoint",Positive,Positive,99.8%,✓
+47,[NEWS_IN] Gainers & Losers : 10 Stocks That Moved The Most On December 22,Negative,Negative,99.7%,✓
+48,"[SOCIAL] U.K. stocks rally, British pound recovers as optimism over possible virus containment offse...",Positive,Positive,98.4%,✓
+49,[NEWS_IN] EXPLAINED : Onion prices may not fall anytime soon ; here why prices are on rise,Positive,Positive,99.4%,✓
+50,[NEWS_IN] Catching Up With Peers - Business News,Positive,Positive,99.7%,✓
+51,[NEWS_IN] Navy upgrading airfields with 24x7 surveillance and real - time alerting,Positive,Positive,97.2%,✓
+52,"[NEWS_IN] RBI rate decision , macro data , global cues to set stock market trend",Positive,Positive,99.8%,✓
+53,[NEWS_IN] GST : Rates on services will determine impact on inflation,Positive,Positive,94.8%,✓
+54,"[NEWS_IN] Mastercard commits Rs 7 , 000 crore investment in India in next 5 years",Positive,Positive,99.8%,✓
+55,"[NEWS_IN] EXCLUSIVE : SEBI , RBI may extend forex trading time to 8 pm from 5 pm now",Negative,Positive,78.2%,✗
+56,"[NEWS_IN] Your food platter gets expensive amid lockdown , steep price rise in two common items",Negative,Negative,99.8%,✓
+57,[NEWS_IN] India Inc topline growth to hit 5 - year high of 9 % in Q3,Positive,Positive,99.8%,✓
+58,"[NEWS_IN] Vedanta Resources delisting not related to Tuticorin incident , says Anil Agarwal",Negative,Negative,99.5%,✓
+59,"[NEWS_IN] Exit polls , election result & other factors that may guide D - Street this week",Positive,Positive,51.3%,✓
+60,"[NEWS_IN] Sensex hits all time high of 30 , 071 , Nifty above 9 , 300 ; Wipro leads 3 % higher",Positive,Positive,99.8%,✓
+61,[SOCIAL] Aurora sets early conversion price for convertible bonds at discount to Friday's https://t....,Neutral,Neutral,99.1%,✓
+62,[NEWS_IN] à¤¯à¥à¤à¤¨ à¤¨à¥ à¤à¤à¤¾à¤¯à¤¾ à¤­à¤¾à¤°à¤¤ à¤à¥ à¤à¤°à¥à¤¥à¤¿à¤ à¤¬à¤¢à¤¼à¥à¤¤...,Positive,Positive,99.7%,✓
+63,[NEWS_IN] SEBI cannot withhold recovered penalty if its order is set aside : SAT,Negative,Negative,99.7%,✓
+64,[NEWS_IN] Podcast | Stock picks of the day : Avoid creating short positions ; use volatility to buy ...,Negative,Positive,99.6%,✗
+65,"[NEWS_IN] News LIVE : IMD hints at the probability of thunderstorm , dust storm for 3 days",Negative,Negative,99.6%,✓
+66,"[NEWS_IN] Toyota , Suzuki announce plans for Make - in - India cars for the world ; engine may be wo...",Positive,Positive,99.7%,✓
+67,[NEWS_IN] Coronavirus poses new challenge to Trump re - election bid,Negative,Negative,99.7%,✓
+68,[NEWS_IN] Asian equity market : Foreigners pull most cash from Asian equities in at least seven year...,Negative,Negative,99.8%,✓
+69,"[NEWS_IN] Budget 2019 must take aim at long - term growth , not just cyclical recovery",Positive,Positive,92.1%,✓
+70,[NEWS_IN] RBI to unveil this fiscal first bi - monthly policy decision on April 4,Positive,Positive,99.1%,✓
+71,[NEWS_IN] Copper Futures Fall 0 . 48 % To Rs 634 . 30 Per Kg On Weak Global Demand,Negative,Negative,99.7%,✓
+72,[NEWS_IN] ipo : Antony Waste Handling Cell files IPO papers with Sebi,Positive,Negative,52.1%,✗
+73,"[NEWS_IN] US stock futures drop as risk appetites hit , Asia shares resilient",Negative,Negative,98.4%,✓
+74,[NEWS_IN] Dubai To Begin Inoculations With Pfizer - BioNTech Vaccine From Today,Negative,Negative,58.6%,✓
+75,"[NEWS_IN] earnings : India Inc profits seen emerging from the shadow of GST , cash ban",Negative,Negative,98.9%,✓
+76,[NEWS_IN] Piyush Goyal asks industry to start working for post - COVID period ; says worst for econo...,Negative,Negative,99.8%,✓
+77,"[NEWS_IN] Gold prices : Commodity outlook : How oil , gold , agri commodities may trade in today ses...",Positive,Positive,77.2%,✓
+78,[NEWS_IN] Samsung pips Apple to top global smartphone sales in Q3,Positive,Positive,99.8%,✓
+79,[NEWS_IN] Growth of eight core sectors slows down to 2 . 1 % in July ; these two were key concerns,Negative,Negative,99.7%,✓
+80,[NEWS_IN] Mnuchin to issue $3 trillion in debt after virus hobbles economy,Negative,Negative,99.8%,✓
+81,"[NEWS_IN] Sebi imposes Rs 27 . 50 lakh fine on Shree Sai Spaces , directors",Negative,Negative,99.8%,✓
+82,[NEWS_IN] trade war :  Trade war between US and China helping India boost its exports,Negative,Positive,82.6%,✗
+83,"[NEWS_IN] Gold inches down on rate hike views , trade worries",Negative,Negative,99.8%,✓
+84,"[NEWS_IN] RBI has not cut repo rate , but your EMIs may still go down ; here why",Negative,Negative,98.9%,✓
+85,[NEWS_IN] SIPs give you the benefit of cost averaging . Lump,Negative,Positive,99.3%,✗
+86,[NEWS_IN] China dismisses concerns of Xi Jinping becoming  emperor for life,Negative,Positive,91.6%,✗
+87,[NEWS_IN] Maruti Suzuki Swift coming earlier than expected ? Pre,Negative,Negative,99.7%,✓
+88,"[NEWS_IN] Donald Trump not  thrilled  with border security deal , but government shutdown seems unli...",Negative,Negative,99.8%,✓
+89,"[NEWS_IN] Tax agriculture income , says NITI Aayog member Debroy",Negative,Negative,99.4%,✓
+90,[NEWS_IN] LinkedIn launches 1mb  Lite  app in India for slower connections,Negative,Negative,95.3%,✓
+91,[NEWS_IN] India economic slowdown  temporary blip : Sinha,Negative,Negative,99.7%,✓
+92,"[NEWS_IN] What is making Narendra Modi  sabka saath , sabka vika promise hollow , stoking Dalit ange...",Negative,Negative,99.8%,✓
+93,"[NEWS_IN] JLR sales increase 5 % in July at 37 , 945 units",Positive,Positive,99.8%,✓
+94,"[NEWS_IN] Oil from the Saudis , US , Africa : Top buyers get what they want",Positive,Positive,99.6%,✓
+95,[SOCIAL] $EOT - Eaton Vance National Municipal Opportunities Trust declares $0.0717 dividend https:/...,Neutral,Neutral,99.5%,✓
+96,[NEWS_IN] Buy Bharti Airtel ; expect channelisation of India ops for debt repayment : BofAML,Negative,Negative,99.7%,✓
+97,[NEWS_IN] View : Shouldnt the concept of job creation take precedence over income transfer ?,Negative,Negative,99.7%,✓
+98,[NEWS_IN] Laurus Labs gets 2 observations from USFDA for Unit 1 & 3 at Visakhapatnam,Positive,Positive,99.5%,✓
+99,"[NEWS_IN] Uber launches Uber Lite , a slimmed down version of the ride - hailing app",Negative,Negative,99.4%,✓
+100,"[NEWS_IN] Loan recasts to only defer problem , NPAs may zoom up to 14 % due to COVID - 19 : S & P Gl...",Negative,Negative,89.2%,✓
